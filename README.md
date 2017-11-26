@@ -1,2 +1,2 @@
-# StudyDictionary
+# Study
 Save
